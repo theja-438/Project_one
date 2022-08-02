@@ -1,0 +1,3 @@
+Hello 
+This is my third file in github.
+It is in a process to push code from github to local machine
